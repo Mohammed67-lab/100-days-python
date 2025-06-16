@@ -1,4 +1,5 @@
 from art import logo
+
 print(logo)
 
 def caesar(direction, original_text, shift_amount):
